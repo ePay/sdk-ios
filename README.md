@@ -1,6 +1,6 @@
 # ePay iOS SDK
 
-Add `https://github.com/ePay/sdk-ios` in Xcode under **File → Add Package Dependencies**, then select version `0.0.12` or a compatible version range. Add the `EpaySDK` product to your app target and import `EpayPayPal` for the standard iOS host integration.
+Add `https://github.com/ePay/sdk-ios` in Xcode under **File → Add Package Dependencies**, then select version `0.0.13` or a compatible version range. Add the `EpaySDK` product to your app target and import `EpayPayPal` for the standard iOS host integration.
 
 Requires iOS 16 or later. Swift Package Manager downloads the compiled XCFramework and the pinned PayPal dependencies automatically. This repository contains the package manifest and Swift PayPal adapter; the main SDK implementation is distributed as a binary.
 
